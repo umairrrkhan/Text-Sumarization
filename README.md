@@ -47,3 +47,7 @@ Model checkpoints from training can be loaded for domain-specific summarization.
 - Hugging Face Transformers: [link](https://huggingface.co/transformers/)
 
 Pretrained T5 models of various sizes are available from Hugging Face. Fine-tuning on domain-specific data can further improve performance.
+
+## Contribution
+
+You can contribute if you want to implement any new things and if you find any error its open so you can use this code put your ideas .
